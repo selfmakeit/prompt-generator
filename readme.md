@@ -1,6 +1,7 @@
 # midjourney可视化prompt生成
 
 以Linux为例：
+
 1.安装cmake
 
 2.安装依赖
