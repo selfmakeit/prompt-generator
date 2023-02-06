@@ -1,0 +1,12 @@
+[package]
+edition = '2021'
+name = 'mjp'
+version = '0.1.0'
+
+[dependencies]
+clipboard = '0.5'
+dirs = '4'
+eframe = '0.19'
+serde.features = ['derive']
+serde.version = '1'
+serde_yaml = '0.9.11'
